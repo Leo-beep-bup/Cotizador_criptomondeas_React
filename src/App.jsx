@@ -75,7 +75,7 @@ function App() {
           alt="imagenes criptomonedas"
         />
         <div>
-          <Heading>Cotiza Criptomonedas al Instate</Heading>
+          <Heading>Cotiza Criptomonedas</Heading>
           <Formulario 
             setMonedas={setMonedas}
           />
